@@ -1,0 +1,13 @@
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\obj\Debug\netcoreapp3.1\LINQ_Course.csprojAssemblyReference.cache
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\obj\Debug\netcoreapp3.1\LINQ_Course.AssemblyInfoInputs.cache
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\obj\Debug\netcoreapp3.1\LINQ_Course.AssemblyInfo.cs
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\obj\Debug\netcoreapp3.1\LINQ_Course.csproj.CoreCompileInputs.cache
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\bin\Debug\netcoreapp3.1\LINQ_Course.exe
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\bin\Debug\netcoreapp3.1\LINQ_Course.deps.json
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\bin\Debug\netcoreapp3.1\LINQ_Course.runtimeconfig.json
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\bin\Debug\netcoreapp3.1\LINQ_Course.runtimeconfig.dev.json
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\bin\Debug\netcoreapp3.1\LINQ_Course.dll
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\bin\Debug\netcoreapp3.1\LINQ_Course.pdb
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\obj\Debug\netcoreapp3.1\LINQ_Course.dll
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\obj\Debug\netcoreapp3.1\LINQ_Course.pdb
+C:\Users\carlosja\source\repos\LINQ_Course\LINQ_Course\obj\Debug\netcoreapp3.1\LINQ_Course.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LINQ_Course/1.0.0": {
+        "runtime": {
+          "LINQ_Course.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_Course/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
